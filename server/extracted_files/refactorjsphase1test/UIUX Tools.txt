@@ -1,6 +1,0 @@
-UI/UX DESIGN TOOLS : 
-
-Figma  : https://www.figma.com/
-Dora : https://www.dora.run/
-Webflow : https://webflow.com/
-Framer : https://www.framer.com/
